@@ -41,7 +41,6 @@
             android:ems="10"
             android:gravity="bottom|left"
             android:hint="@string/login_hint_name"
-            android:inputType="phone"
             android:paddingLeft="10dp"
             android:textColor="?attr/colorPrimary" />
     </LinearLayout>
